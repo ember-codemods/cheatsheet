@@ -28,3 +28,4 @@ ember-cli-update --list-codemods
 ## Awesome Lists
 - [awesome-ast](https://github.com/cowchimp/awesome-ast)
 - [awesome-jscodeshift](https://github.com/sejoker/awesome-jscodeshift)
+- [awesome-codemods](https://github.com/rajasegar/awesome-codemods)
