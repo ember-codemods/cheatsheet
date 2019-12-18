@@ -2,14 +2,17 @@
 Cheatsheet for writing codemods and tools
 
 ## Tools
-- [codemod-cli](https://github.com/rwjblue/codemod-cli)
+- [astexplorer](https://astexplorer.net)
 - [jscodeshift](https://github.com/facebook/jscodeshift)
+- [codemod-cli](https://github.com/rwjblue/codemod-cli)
 - [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast)
 - [ember-cli-update](https://github.com/ember-cli/ember-cli-update)
 - [ember-cli-update-codemods-manifest](https://github.com/ember-cli/ember-cli-update-codemods-manifest)
 - [recast](https://github.com/benjamn/recast)
+- [ast-types](https://github.com/benjamn/ast-types)
 - [ast-builder](https://rajasegar.github.io/ast-builder/)
 - [ast-finder](https://rajasegar.github.io/ast-finder/)
+- [jarvis](https://rajasegar.github.io/jarvis/)
 
 ## ember-cli-update
 
